@@ -1,0 +1,7 @@
+# 项目排除路径
+/component/target/
+/entity/target/
+/environment/target/
+/generate/target/
+/util/target/
+/web/target/
